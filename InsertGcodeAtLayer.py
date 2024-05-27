@@ -1,6 +1,6 @@
 # Created non-profit
 # Modification 26.05.2024
-# V0.45 Mago3D
+# V0.45
 # Created from Filament change and Insert At Layer Change
 
 from typing import List
